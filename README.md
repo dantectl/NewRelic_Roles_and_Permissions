@@ -1,8 +1,3 @@
-# NewRelic_Roles_and_Permissions
-Fetch roles and permissions for New Relic account
-
----
-
 # New Relic Roles & Permissions Exporter
 
 A lightweight, standalone Python tool to export all New Relic roles and their assigned permissions within an organization to a unified CSV file.
